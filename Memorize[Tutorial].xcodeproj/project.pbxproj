@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		EB0F401A2CAEEC7300E54C05 /* Memorize[Tutorial].app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Memorize[Tutorial].app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EB0F401A2CAEEC7300E54C05 /* Memorize[Tutorial].app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Memorize[Tutorial].app"; path = "/Users/aymane/Documents/CreativeFiles/XCode Projects/Memorize[Tutorial]/build/Debug-iphoneos/Memorize[Tutorial].app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				EB0F401C2CAEEC7300E54C05 /* Memorize[Tutorial] */,
-				EB0F401B2CAEEC7300E54C05 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		EB0F401B2CAEEC7300E54C05 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				EB0F401A2CAEEC7300E54C05 /* Memorize[Tutorial].app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = EB0F40112CAEEC7300E54C05;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = EB0F401B2CAEEC7300E54C05 /* Products */;
+			productRefGroup = EB0F40112CAEEC7300E54C05;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
